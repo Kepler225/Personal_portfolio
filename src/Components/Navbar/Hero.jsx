@@ -10,7 +10,7 @@ const Hero = () => {
         <p>i am a frontend developer from Nigeria, Osun State with 3 years of experiance in multiple companies like Microsoft, Data site App and Apple.</p>
 <div className="hero-action">
   <div className="hero-connet">
-    <a className="anchor-link" href="https://wa.me/23491673182970" target="_blank" rel="noopener noreferrer">let's talk more</a>
+    <a className="anchor-link" href="https://wa.me/2349163182970" target="_blank" rel="noopener noreferrer">let's talk more</a>
   </div>
   <div className="hero-resume">My resume</div>
 </div>
